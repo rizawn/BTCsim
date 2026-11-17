@@ -1,0 +1,102 @@
+{
+ "frames": {
+  "hud_avalanche_barcode": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 220,
+    "h": 448
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 220,
+    "h": 448
+   },
+   "sourceSize": {
+    "w": 220,
+    "h": 448
+   }
+  },
+  "hud_epoch_clock": {
+   "frame": {
+    "x": 222,
+    "y": 0,
+    "w": 320,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 320
+   }
+  },
+  "hud_breakeven_radar": {
+   "frame": {
+    "x": 544,
+    "y": 0,
+    "w": 320,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 320
+   }
+  },
+  "hud_thermal_map": {
+   "frame": {
+    "x": 0,
+    "y": 450,
+    "w": 320,
+    "h": 300
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 300
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 300
+   }
+  },
+  "hud_gamblers_ruin_meter": {
+   "frame": {
+    "x": 322,
+    "y": 450,
+    "w": 360,
+    "h": 120
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 360,
+    "h": 120
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas_hud.png",
+  "size": {
+   "w": 1024,
+   "h": 752
+  },
+  "scale": 1
+ }
+}

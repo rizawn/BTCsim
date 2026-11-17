@@ -1,0 +1,102 @@
+{
+ "frames": {
+  "ui_panel_9slice": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   }
+  },
+  "ui_button_normal": {
+   "frame": {
+    "x": 98,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 160,
+    "h": 44
+   }
+  },
+  "ui_button_hover": {
+   "frame": {
+    "x": 260,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 160,
+    "h": 44
+   }
+  },
+  "ui_button_pressed": {
+   "frame": {
+    "x": 422,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 160,
+    "h": 44
+   }
+  },
+  "ui_button_disabled": {
+   "frame": {
+    "x": 584,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 160,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 160,
+    "h": 44
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas_ui.png",
+  "size": {
+   "w": 1024,
+   "h": 98
+  },
+  "scale": 1
+ }
+}

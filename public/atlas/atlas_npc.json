@@ -1,0 +1,156 @@
+{
+ "frames": {
+  "npc_03_slush": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  },
+  "npc_01_satoshi_san": {
+   "frame": {
+    "x": 242,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  },
+  "npc_02_mama_rina": {
+   "frame": {
+    "x": 484,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  },
+  "npc_07_mira": {
+   "frame": {
+    "x": 726,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  },
+  "npc_06_vera": {
+   "frame": {
+    "x": 968,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  },
+  "npc_04_uncle_wang": {
+   "frame": {
+    "x": 1210,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  },
+  "npc_08_halv": {
+   "frame": {
+    "x": 1452,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  },
+  "npc_05_gox_ji": {
+   "frame": {
+    "x": 1694,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 240,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 320
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas_npc.png",
+  "size": {
+   "w": 2048,
+   "h": 322
+  },
+  "scale": 1
+ }
+}

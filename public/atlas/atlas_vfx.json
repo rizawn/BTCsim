@@ -1,0 +1,156 @@
+{
+ "frames": {
+  "vfx_02_block_found": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  },
+  "vfx_08_checkpoint": {
+   "frame": {
+    "x": 0,
+    "y": 202,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  },
+  "vfx_05_heist_tension": {
+   "frame": {
+    "x": 0,
+    "y": 404,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  },
+  "vfx_03_fork_split": {
+   "frame": {
+    "x": 0,
+    "y": 606,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  },
+  "vfx_06_thermal_sweep": {
+   "frame": {
+    "x": 0,
+    "y": 808,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  },
+  "vfx_01_nonce_sweep": {
+   "frame": {
+    "x": 0,
+    "y": 1010,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  },
+  "vfx_07_timejack": {
+   "frame": {
+    "x": 0,
+    "y": 1212,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  },
+  "vfx_04_halving_ceremony": {
+   "frame": {
+    "x": 0,
+    "y": 1414,
+    "w": 1200,
+    "h": 200
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1200,
+    "h": 200
+   },
+   "sourceSize": {
+    "w": 1200,
+    "h": 200
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas_vfx.png",
+  "size": {
+   "w": 2048,
+   "h": 1616
+  },
+  "scale": 1
+ }
+}

@@ -1,0 +1,336 @@
+{
+ "frames": {
+  "icon_tab_node_mempool": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_tab_silicon_infra": {
+   "frame": {
+    "x": 66,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_tab_treasury_script": {
+   "frame": {
+    "x": 132,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_tab_consensus_warfare": {
+   "frame": {
+    "x": 198,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_res_btc": {
+   "frame": {
+    "x": 264,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_res_fiat": {
+   "frame": {
+    "x": 330,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_res_joule": {
+   "frame": {
+    "x": 396,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_res_heat": {
+   "frame": {
+    "x": 462,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_status_rig": {
+   "frame": {
+    "x": 528,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_epoch_clock": {
+   "frame": {
+    "x": 594,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_halving": {
+   "frame": {
+    "x": 660,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_orphan_block": {
+   "frame": {
+    "x": 726,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_payout_schemes": {
+   "frame": {
+    "x": 792,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_difficulty": {
+   "frame": {
+    "x": 858,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_verify_audit": {
+   "frame": {
+    "x": 924,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_selfish_mining": {
+   "frame": {
+    "x": 0,
+    "y": 66,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_ddos": {
+   "frame": {
+    "x": 66,
+    "y": 66,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "icon_checkpoint": {
+   "frame": {
+    "x": 132,
+    "y": 66,
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas_icons.png",
+  "size": {
+   "w": 1024,
+   "h": 132
+  },
+  "scale": 1
+ }
+}

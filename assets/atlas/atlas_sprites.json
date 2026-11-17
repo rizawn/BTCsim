@@ -1,0 +1,264 @@
+{
+ "frames": {
+  "rig_01_laptop_genesis": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "rig_02_gpu_openframe": {
+   "frame": {
+    "x": 258,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "rig_03_fpga_board": {
+   "frame": {
+    "x": 516,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "rig_04_asic_a66": {
+   "frame": {
+    "x": 0,
+    "y": 226,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "rig_05_asic_h9": {
+   "frame": {
+    "x": 258,
+    "y": 226,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "rig_06_immersion_h19": {
+   "frame": {
+    "x": 516,
+    "y": 226,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "rig_07_blade_h21l": {
+   "frame": {
+    "x": 0,
+    "y": 452,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "rig_08_sunset_node": {
+   "frame": {
+    "x": 258,
+    "y": 452,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "obj_block_teal": {
+   "frame": {
+    "x": 516,
+    "y": 452,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "obj_block_orphan": {
+   "frame": {
+    "x": 0,
+    "y": 678,
+    "w": 256,
+    "h": 224
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 224
+   }
+  },
+  "obj_utxo_confirmed": {
+   "frame": {
+    "x": 258,
+    "y": 678,
+    "w": 128,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 180
+   }
+  },
+  "obj_utxo_mempool": {
+   "frame": {
+    "x": 388,
+    "y": 678,
+    "w": 128,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 180
+   }
+  },
+  "obj_utxo_locked": {
+   "frame": {
+    "x": 518,
+    "y": 678,
+    "w": 128,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 180
+   }
+  },
+  "obj_utxo_back": {
+   "frame": {
+    "x": 648,
+    "y": 678,
+    "w": 128,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 180
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas_sprites.png",
+  "size": {
+   "w": 1024,
+   "h": 904
+  },
+  "scale": 1
+ }
+}
